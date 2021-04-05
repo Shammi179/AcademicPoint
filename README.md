@@ -1,7 +1,7 @@
-<h1 align="center"><b>Student Information System
-</b><br></h1>
-<h3 align="center"><b>By Dynamic Duo
-</b><br></h3>
+<h1 align="center"><b>Student Information System</br>
+<h5><b>Dynamic DUO</b></h5>
+</h1>
+
 
 
 ![login](images/login.png)
@@ -48,7 +48,7 @@ So, this project is a python console application where we have implemented a pla
 
 
 
-### Team - Dynamic Duo
-  [Shumaiya Akter Shammi](https://github.com/Shammi179)<br>
-  [Sajal Das](https://github.com/sajaldas19)  
+## Team - Dynamic DUO
+  * [Shumaiya Akter Shammi](https://github.com/Shammi179)<br>
+  * [Sajal Das](https://github.com/sajaldas19)  
  
