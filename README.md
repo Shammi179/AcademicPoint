@@ -11,7 +11,7 @@
 
 ## About Project
 <p>
-This project is about Student Information System using Python and here we have choosen SQLite for storing information in a SQL database. In this console application, there are three section which is Student Panel, Teacher Panel and Admin Panel. Here we focused on our SQL database. 
+This project is about Student Information System using Python and here we have chosen SQLite for storing information in a SQL database. In this console application, there are three section which is Student Panel, Teacher Panel and Admin Panel. Here we focused on our SQL database. 
 
 ![admin](images/admin-panel.png)
 <p align="center">Admin Panel</p>
@@ -48,7 +48,7 @@ So, this project is a python console application where we have implemented a pla
 
 
 
+
 ## Team - Dynamic DUO
   * [Shumaiya Akter Shammi](https://github.com/Shammi179)<br>
   * [Sajal Das](https://github.com/sajaldas19)  
- 
