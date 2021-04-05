@@ -1,5 +1,5 @@
-<h1 align="center"><b>Student Information System</br>
-<h5><b>Dynamic DUO</b></h5>
+<h1 align="center"><b>Academic Point</br>
+<h5>Dynamic DUO</h5>
 </h1>
 
 
